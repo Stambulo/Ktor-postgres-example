@@ -1,7 +1,7 @@
 package com.example.plugins
 
-import com.example.UserDao
-import com.example.UserDaoImpl
+import com.example.database.UserDao
+import com.example.database.UserDaoImpl
 import io.ktor.server.application.*
 import io.ktor.server.request.*
 import io.ktor.server.response.*
